@@ -8,7 +8,7 @@ Encode::HP Perl
 
 ## NAME
 
-`Encode::HP` - Extra sets of HP encodings
+`Encode::HP` - Extra sets of HP encodings using Unicode Mapping `.ucm` files
 
 ## VERSION
 
