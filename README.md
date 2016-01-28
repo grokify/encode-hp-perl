@@ -12,7 +12,7 @@ Encode::HP Perl
 
 ## VERSION
 
-This document describes version 0.03 of Encode::HP, released September 15, 2013.
+This document describes version 0.03 of `Encode::HP`, released September 15, 2013.
 
 ## SYNOPSIS
 
